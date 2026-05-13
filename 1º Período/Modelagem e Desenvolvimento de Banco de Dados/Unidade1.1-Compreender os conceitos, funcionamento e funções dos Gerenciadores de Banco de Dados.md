@@ -36,7 +36,7 @@ Isso facilita a visualização e validação junto aos usuários antes de avanç
 Essas três etapas formam a base para que o esquema conceitual seja confiável e elimine os problemas de perda e inconsistência de informações que a escola enfrenta.
 
 
-Sua atividade foi entregue com sucesso!
+#### Sua atividade foi entregue com sucesso!
 Confira abaixo os detalhes do seu envio. Uma cópia deste recibo também será enviada para o seu e-mail.
 ID do envio: 16750261
 Atividade enviada por: Diego Jefferson da Silva Rosa
@@ -158,7 +158,7 @@ São Paulo: McGraw-Hill, 2008.
 Banco de imagens Shutterstock.
 SAGAH, 2017.
 
-EQUIPE SAGAH
+#### EQUIPE SAGAH
 Coordenador(a) de Curso
 Roberto Litel
 

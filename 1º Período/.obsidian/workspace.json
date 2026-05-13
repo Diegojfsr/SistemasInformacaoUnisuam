@@ -35,8 +35,7 @@
               "title": "Unidade1.2-Sistemas Gerenciadores de Banco de Dados"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelagem e Desenvolvimento de Banco de Dados/Unidade1.2-Sistemas Gerenciadores de Banco de Dados.md",
+                "file": "Modelagem e Desenvolvimento de Banco de Dados/Unidade1.1-Compreender os conceitos, funcionamento e funções dos Gerenciadores de Banco de Dados.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Unidade1.2-Sistemas Gerenciadores de Banco de Dados"
+              "title": "Sumário de Unidade1.1-Compreender os conceitos, funcionamento e funções dos Gerenciadores de Banco de Dados"
             }
           },
           {
@@ -182,10 +181,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e37de4aa0f915b34",
+  "active": "aaf43947a7929847",
   "lastOpenFiles": [
-    "Modelagem e Desenvolvimento de Banco de Dados/Unidade1.1-Compreender os conceitos, funcionamento e funções dos Gerenciadores de Banco de Dados.md",
     "Modelagem e Desenvolvimento de Banco de Dados/Unidade1.2-Sistemas Gerenciadores de Banco de Dados.md",
+    "Modelagem e Desenvolvimento de Banco de Dados/Unidade1.1-Compreender os conceitos, funcionamento e funções dos Gerenciadores de Banco de Dados.md",
     "Leitura e Produção de Textos/Unidade1.1-A importância da Língua Portuguesa no ensino superior.md",
     "Leitura e Produção de Textos/Unidade3.3-A coesão textual mecanismos de referenciação.md",
     "Modelagem e Desenvolvimento de Banco de Dados",

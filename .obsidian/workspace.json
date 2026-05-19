@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1º Período/Modelagem e Desenvolvimento de Banco de Dados/Unidade2.1-Linguagem SQL (noções básicas).md",
+                "file": "1º Período/Fundamentos Computacionais/Atividades Avaliativas2-Questionário Fundamentos Computacionais GADS1042.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unidade2.1-Linguagem SQL (noções básicas)"
+              "title": "Atividades Avaliativas2-Questionário Fundamentos Computacionais GADS1042"
+            }
+          },
+          {
+            "id": "fffee9d12603690e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1º Período/Fundamentos Computacionais/Atividades Avaliativas2-Questionário Fundamentos Computacionais GADS1042.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Atividades Avaliativas2-Questionário Fundamentos Computacionais GADS1042"
             }
           }
         ],
@@ -109,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1º Período/Modelagem e Desenvolvimento de Banco de Dados/Unidade2.1-Linguagem SQL (noções básicas).md",
+                "file": "1º Período/Fundamentos Computacionais/Atividades Avaliativas2-Questionário Fundamentos Computacionais GADS1042.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Unidade2.1-Linguagem SQL (noções básicas)"
+              "title": "Sumário de Atividades Avaliativas2-Questionário Fundamentos Computacionais GADS1042"
             }
           },
           {
@@ -184,8 +198,11 @@
   },
   "active": "8976e6ef9c3e3f59",
   "lastOpenFiles": [
-    "1º Período/Modelagem e Desenvolvimento de Banco de Dados/Unidade1.4-Projeto de Banco de Dados.md",
+    "1º Período/Fundamentos Computacionais/Atividades Avaliativas1-Escrita e Reflexão.md",
+    "1º Período/Fundamentos Computacionais/Unidade1.1-Sistemas de computador.md",
+    "1º Período/Fundamentos Computacionais/Atividades Avaliativas2-Questionário Fundamentos Computacionais GADS1042.md",
     "1º Período/Modelagem e Desenvolvimento de Banco de Dados/Unidade2.1-Linguagem SQL (noções básicas).md",
+    "1º Período/Modelagem e Desenvolvimento de Banco de Dados/Unidade1.4-Projeto de Banco de Dados.md",
     "1º Período/Leitura e Produção de Textos/Unidade4.3-Gêneros discursivos acadêmicos e científicos.md",
     "1º Período/Leitura e Produção de Textos/Unidade4.2-Os modos de organização do discurso tipos textuais.md",
     "1º Período/Leitura e Produção de Textos/Unidade4.1-O texto como atividade de linguagem-interação.md",
@@ -201,15 +218,12 @@
     "1º Período/Fundamentos Computacionais/Unidade3.3-Modelos de programação.md",
     "1º Período/Fundamentos Computacionais/Unidade3.1-Representações de dados e aritmética de computadores.md",
     "1º Período/Fundamentos Computacionais/Unidade2.1-Os principais componentes de um computador.md",
-    "1º Período/Fundamentos Computacionais/Unidade1.1-Sistemas de computador.md",
     "1º Período/Fundamentos Computacionais/Unidade1.2-Software de aplicação para usuários finais.md",
     "1º Período/Modelagem e Desenvolvimento de Banco de Dados/Unidade1.1-Compreender os conceitos, funcionamento e funções dos Gerenciadores de Banco de Dados.md",
     "1º Período/Fundamentos Computacionais/Unidade1.3-Software de sistema.md",
     "Módulo2-Começando, conceitos básicos do Node/Aula2-Primeira Aplicação em Node.md",
     "Módulo2-Começando, conceitos básicos do Node/Aula3-NodeJS REPL (READ, EVAL, PRINT, LOOP).md",
     "Módulo2-Começando, conceitos básicos do Node/Aula1-Conceitos básicos de NodeJS.md",
-    "Módulo1-Introdução ao Node.js/Aula1-Introdução ao Node.js.md",
-    "Módulo3-Gerenciador de Pacotes do Node/Aula1-NPM (Gerenciador de Pacotes do Node.js).md",
     "Módulo2-Começando, conceitos básicos do Node",
     "Módulo3-Gerenciador de Pacotes do Node",
     "Fundamentos Computacionais/Pasted image 20260331195640.png",

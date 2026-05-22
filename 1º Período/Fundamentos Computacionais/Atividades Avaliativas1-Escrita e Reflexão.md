@@ -6,6 +6,7 @@ apresentando os autores utilizados conforme regra da ABNT. Os trabalhos serão
 verificados e em caso de similaridades serão zerados.
 
 ## Contextualização
+
 Como discutido nas Unidades 1 e 2, os sistemas operacionais desempenham um papel
 fundamental na gestão dos recursos computacionais e na execução de tarefas. Dentro desse
 contexto, existem diferentes tipos de sistemas operacionais, cada um com características
@@ -17,11 +18,13 @@ sistema operava agrupando tarefas semelhantes e processando-as sequencialmente, 
 
 
 ## Proposta de Trabalho
+
 Acesse o link: https://youtu.be/ctY-bwG5Dzk, assista o vídeo sobre sistema em lote
 (sistema operacional batch) e entenda melhor sobre suas principais características e como ele funciona. Elabore um texto conciso e autoral, destacando as vantagens e as desvantagens do sistema em lote e pesquise se ele ainda é ou pode ser utilizado nos dias de hoje.
 
 
 ## Orientações
+
 Para este formato de trabalho, a orientação é que o texto seja inserido no espaço online
 destinado para a atividade. Esta é uma oportunidade para que você possa mostrar o quanto é uma pessoa comprometida com sua aprendizagem e evolução! É recomendável que responda em aproximadamente dois ou três parágrafos, apresentando de forma autoral, criativa e bem desenvolvido cada ponto solicitado na proposta a fim de alcançar a pontuação total para esta atividade!
 
@@ -45,7 +48,7 @@ Boa atividade!
 | Entendimento acerca do conteúdo estudado | 1.0       |
 | Pontuação máxima                         | 3.0       |
 
-####  ✅ Resposta:
+##  ✅ Resposta:
 
 Sistema Operacional em Lote
 O sistema operacional em lote, introduzido na década de 1960, caracteriza-se pelo processamento sequencial de tarefas agrupadas, sem a necessidade de interação direta do usuário durante a execução. Entre suas vantagens, destacam-se a eficiência no processamento de grandes volumes de dados, a automatização de rotinas repetitivas e o uso otimizado dos recursos computacionais, especialmente em horários de menor demanda. Por outro lado, suas vantagens incluem a ausência de interação imediata, a dependência de planejamento rigoroso e a inadequação para aplicações que exigem respostas rápidas ou interação contínua (SILBERSCHATZ; GALVIN; GAGNE, 2018).

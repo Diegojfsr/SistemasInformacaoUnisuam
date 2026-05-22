@@ -35,8 +35,7 @@
               "title": "Atividades Avaliativas1-Escrita e Reflexão"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1º Período/Leitura e Produção de Textos/Atividades Avaliativas1-Escrita e Reflexão.md",
+                "file": "1º Período/Fundamentos Computacionais/Atividades Avaliativas1-Escrita e Reflexão.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,15 +181,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "151df8e3e8b2b13e",
+  "active": "127f92868be37a8d",
   "lastOpenFiles": [
-    "1º Período/Fundamentos Computacionais/Atividades Avaliativas1-Escrita e Reflexão.md",
     "1º Período/Leitura e Produção de Textos/Atividades Avaliativas1-Escrita e Reflexão.md",
+    "1º Período/Leitura e Produção de Textos/Atividades Avaliativas2-Questionário Fundamentos Computacionais GADS1042.md",
+    "1º Período/Fundamentos Computacionais/Atividades Avaliativas2-Questionário Fundamentos Computacionais GADS1042.md",
+    "1º Período/Fundamentos Computacionais/Atividades Avaliativas1-Escrita e Reflexão.md",
     "1º Período/Leitura e Produção de Textos/Unidade1.1-A importância da Língua Portuguesa no ensino superior.md",
     "1º Período/Modelagem e Desenvolvimento de Banco de Dados/Unidade2.3-Administração de Dados e Banco de Dados.md",
     "1º Período/Modelagem e Desenvolvimento de Banco de Dados/Unidade2.2-Linguagem SQL (Consultas).md",
     "1º Período/Modelagem e Desenvolvimento de Banco de Dados/Unidade2.1-Linguagem SQL (noções básicas).md",
-    "1º Período/Fundamentos Computacionais/Atividades Avaliativas2-Questionário Fundamentos Computacionais GADS1042.md",
     "1º Período/Fundamentos Computacionais/Unidade1.1-Sistemas de computador.md",
     "1º Período/Modelagem e Desenvolvimento de Banco de Dados/Unidade1.4-Projeto de Banco de Dados.md",
     "1º Período/Leitura e Produção de Textos/Unidade4.3-Gêneros discursivos acadêmicos e científicos.md",
@@ -209,7 +209,6 @@
     "1º Período/Fundamentos Computacionais/Unidade2.1-Os principais componentes de um computador.md",
     "1º Período/Fundamentos Computacionais/Unidade1.2-Software de aplicação para usuários finais.md",
     "1º Período/Modelagem e Desenvolvimento de Banco de Dados/Unidade1.1-Compreender os conceitos, funcionamento e funções dos Gerenciadores de Banco de Dados.md",
-    "1º Período/Fundamentos Computacionais/Unidade1.3-Software de sistema.md",
     "Módulo2-Começando, conceitos básicos do Node",
     "Módulo3-Gerenciador de Pacotes do Node",
     "Fundamentos Computacionais/Pasted image 20260331195640.png",

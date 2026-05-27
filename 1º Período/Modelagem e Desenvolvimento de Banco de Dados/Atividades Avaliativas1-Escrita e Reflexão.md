@@ -53,7 +53,7 @@ Claudia
 | Pontuação máxima                         | 3.0       |
 
 
-##  ✅ Resposta:
+##  ✅ Resposta 1
 
 Pelo que o vídeo abordou e me baseando na minha vivencia acadêmica e profissional da área de sistemas de informação, posso dizer que criar um banco de dados exige planejamento cuidadoso para evitar falhas e garantir que os dados realmente apoiem decisões estratégicas.
 
@@ -68,7 +68,7 @@ Referências:
 
 
 
-## Sobre o vídeo
+#### Sobre o vídeo
 
 O vídeo “10 Conceitos de Bancos de Dados que todo estudante precisa conhecer” apresenta uma lista dos principais fundamentos de bancos de dados que todo estudante de tecnologia deve dominar.
 
@@ -99,5 +99,47 @@ Data e hora do envio: 23/05/26 - 13:22
 Disciplina: Modelagem e Desenvolvimento de Banco de Dados [TTEC0037] (2026-1-TTEC0037-TRIMESTRAL-EAD0303T)
 Tarefa: Escrita e Reflexão
 Tentativa: 1 de 2
+
+#### Comentários do Professor
+Diego,
+A implantação de backup e restauração são procedimentos realizados após a criação.
+Deve ajustar para nova avaliação.
+Claudia
+
+
+##  ✅ Resposta 2
+
+Pelo que o vídeo abordou e me baseando na minha vivencia acadêmica e profissional da área de sistemas de informação, posso dizer que criar um banco de dados exige planejamento cuidadoso para evitar falhas e garantir que os dados realmente apoiem decisões estratégicas.
+
+O primeiro procedimento é a modelagem de dados, que organizando as informações em entidades e relacionamentos, reduzem redundâncias e inconsistências, segundo LIMA; LOPES; NASCIMENTO (2026). 
+O segundo passo é a normalização, aplicando regras formais para estruturar tabelas de forma eficiente, assegurando a integridade e consistência, conforme ALURA (2023). 
+Além disso, o uso adequado de chaves primárias e estrangeiras para identificar registros de forma exclusiva e o uso índices para otimizar e acelerar a performance das consultas, fortalecem os relacionamentos entre tabelas e mantém a confiabilidade dos dados, como observado no vídeo.
+
+Referências:
+- LIMA, E. L. F.; LOPES, P. H. M. B.; NASCIMENTO, F. A. Boas práticas de modelagem de dados em bancos relacionais: uma revisão rápida de literatura. Revista Sociedade Científica, v. 9, n. 1, p. 1188-1202, 2026.
+- ALURA. Normalização em Banco de Dados - Estrutura. Publicado em 06 mar. 2023.
+
+
+
+
+#### Sobre o vídeo
+Neste vídeo Fábio dos Reis, da Bóson Treinamentos, apresenta 10 conceitos fundamentais que todo estudante da área de bancos de dados precisa conhecer para facilitar seus estudos e a compreensão de tópicos mais complexos.
+
+Os 10 conceitos abordados são:
+Banco de Dados (0:22): Uma coleção organizada de dados armazenados em um meio físico, permitindo consultas e obtenção de informações.
+SGBD - Sistema de Gerenciamento de Banco de Dados (1:18): O software que faz a interface entre o usuário e o arquivo do banco de dados (exemplos: Oracle, SQL Server, IBM DB2).
+Modelagem de Dados (2:57): Processo essencial para definir a estrutura (tabelas, atributos e relacionamentos), eliminando redundâncias e atendendo às regras de negócio.
+Tabelas, Linhas e Colunas (4:32): Estrutura básica onde as colunas representam os atributos, as linhas são os registros e a tabela é a coleção desses dados.
+SQL - Structured Query Language (6:16): Linguagem padrão para interagir com bancos de dados relacionais (inserir, consultar, atualizar e excluir dados).
+Chaves (7:08): Colunas especiais usadas para identificar registros de forma exclusiva, com destaque para a Chave Primária (PK) e Chave Estrangeira (FK).
+Índices (8:39): Estruturas criadas para otimizar e acelerar a performance das consultas, embora possam afetar o desempenho em operações de escrita frequentes.
+Backup e Restauração (9:50): Prática vital de criar cópias de segurança para garantir a integridade e disponibilidade dos dados em caso de falhas.
+DER - Diagrama Entidade-Relacionamento (10:53): Representação gráfica que ajuda a visualizar tabelas e seus relacionamentos no projeto do banco.
+Bancos Não Relacionais (NoSQL) (12:07): Sistemas que não seguem o modelo relacional tradicional, ideais para grandes volumes de dados (Big Data), como MongoDB, Cassandra e Redis.
+
+
+
+
+
 
 

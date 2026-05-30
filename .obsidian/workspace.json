@@ -8,45 +8,119 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6f72217f51c2daa",
+            "id": "0013a8dff1cfba23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1º Período/Modelagem e Desenvolvimento de Banco de Dados/Unidade3.1-Gerenciamento de Transações.md",
+                "file": "Extensão 1/Unidade2-Atividades de Extensão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unidade3.1-Gerenciamento de Transações"
+              "title": "Unidade2-Atividades de Extensão"
             }
           },
           {
-            "id": "2aa801d05beb083e",
+            "id": "1a65f1db6a62524e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1º Período/Modelagem e Desenvolvimento de Banco de Dados/Unidade3.2-Desenvolver práticas de programação em Banco de Dados.md",
+                "file": "Extensão 1/Unidade3-Avaliação de Extensão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unidade3.2-Desenvolver práticas de programação em Banco de Dados"
+              "title": "Unidade3-Avaliação de Extensão"
             }
           },
           {
-            "id": "fbf029b05a4f38d7",
+            "id": "1f81f57dd957c19c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Extensão 1/Unidade4-Extensão na UNISUAM.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Unidade4-Extensão na UNISUAM"
+            }
+          },
+          {
+            "id": "f232131a3d8723fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extensão 1/Unidade5-Extensão para os cursos EAD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unidade5-Extensão para os cursos EAD"
+            }
+          },
+          {
+            "id": "e9a9172d3b9a1904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extensão 1/Unidade6-Exemplos de Atividades de Extensão.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unidade6-Exemplos de Atividades de Extensão"
+            }
+          },
+          {
+            "id": "0d64745c8a84042c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extensão 1/Unidade8-1ª Avaliação do Módulo de Extensão.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unidade8-1ª Avaliação do Módulo de Extensão"
+            }
+          },
+          {
+            "id": "041627d8f5b83e4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extensão 1/Unidade8-1ª Avaliação do Módulo de Extensão.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unidade8-1ª Avaliação do Módulo de Extensão"
+            }
+          },
+          {
+            "id": "92812df8307c02d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extensão 1/Unidade7-Live no Youtube - Extensão Universitária O que é e como fazer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unidade7-Live no Youtube - Extensão Universitária O que é e como fazer"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -119,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1º Período/Modelagem e Desenvolvimento de Banco de Dados/Unidade3.4-Necessidades das políticas de manutenção de banco de dados.md",
+                "file": "Extensão 1/Unidade7-Live no Youtube - Extensão Universitária O que é e como fazer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Unidade3.4-Necessidades das políticas de manutenção de banco de dados"
+              "title": "Sumário de Unidade7-Live no Youtube - Extensão Universitária O que é e como fazer"
             }
           },
           {
@@ -192,8 +266,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1b02efb55613b8a3",
+  "active": "92812df8307c02d9",
   "lastOpenFiles": [
+    "Extensão 1/Unidade8-1ª Avaliação do Módulo de Extensão.md",
+    "Extensão 1/Unidade7-Live no Youtube - Extensão Universitária O que é e como fazer.md",
+    "Extensão 1/Unidade9-2ª Avaliação do Módulo de Extensão.md",
+    "Extensão 1/Unidade6-Exemplos de Atividades de Extensão.md",
+    "Extensão 1/Unidade5-Extensão para os cursos EAD.md",
+    "Extensão 1/Unidade4-Extensão na UNISUAM.md",
+    "Extensão 1/Unidade1-Apresentação da Disciplina de Extensão.md",
+    "Extensão 1/Unidade3-Avaliação de Extensão.md",
+    "Extensão 1/Unidade2-Atividades de Extensão.md",
+    "1º Período/Modelagem e Desenvolvimento de Banco de Dados/Unidade3.4-Necessidades das políticas de manutenção de banco de dados.md",
+    "Extensão 1",
     "Modelagem e Desenvolvimento de Banco de Dados/Unidade3.4-Necessidades das políticas de manutenção de banco de dados.md",
     "Modelagem e Desenvolvimento de Banco de Dados/Unidade3.3-Compreender as responsabilidades do Administrador de Banco de Dados.md",
     "Modelagem e Desenvolvimento de Banco de Dados/Unidade3.2-Desenvolver práticas de programação em Banco de Dados.md",
@@ -211,16 +296,6 @@
     "Leitura e Produção de Textos/Unidade4.3-Gêneros discursivos acadêmicos e científicos.md",
     "Leitura e Produção de Textos/Unidade4.2-Os modos de organização do discurso tipos textuais.md",
     "Leitura e Produção de Textos/Unidade4.1-O texto como atividade de linguagem-interação.md",
-    "Leitura e Produção de Textos/Unidade3.3-A coesão textual mecanismos de referenciação.md",
-    "Leitura e Produção de Textos/Unidade3.2-Pontuação.md",
-    "Leitura e Produção de Textos/Unidade3.1-A construção do parágrafo padrão.md",
-    "Leitura e Produção de Textos/Unidade2.3-Estratégias de leitura - Texto e intertextualidade.md",
-    "Leitura e Produção de Textos/Unidade2.2-Estratégias de leitura - texto e contexto.md",
-    "Leitura e Produção de Textos/Unidade2.1-Estratégias de leitura - leitura textual ou literal.md",
-    "Leitura e Produção de Textos/Unidade1.3-Níveis de linguagem.md",
-    "Leitura e Produção de Textos/Unidade1.2-O novo acordo ortográfico.md",
-    "Leitura e Produção de Textos/Unidade1.1-A importância da Língua Portuguesa no ensino superior.md",
-    "Leitura e Produção de Textos/Atividades Avaliativas1-Escrita e Reflexão.md",
     "Leitura e Produção de Textos",
     "Fundamentos Computacionais",
     "Módulo2-Começando, conceitos básicos do Node",
@@ -230,7 +305,6 @@
     "24.Node.js Zlib Complete Reference",
     "23.Node.js VM Complete Reference",
     "22.Node.js V8 Complete Reference",
-    "21.Node.js Utility Complete Reference",
-    "20.Node.js URL Complete Reference"
+    "21.Node.js Utility Complete Reference"
   ]
 }

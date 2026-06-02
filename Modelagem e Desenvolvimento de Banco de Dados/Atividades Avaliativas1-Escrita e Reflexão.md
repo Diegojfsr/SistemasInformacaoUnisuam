@@ -138,6 +138,15 @@ DER - Diagrama Entidade-Relacionamento (10:53): Representação gráfica que aju
 Bancos Não Relacionais (NoSQL) (12:07): Sistemas que não seguem o modelo relacional tradicional, ideais para grandes volumes de dados (Big Data), como MongoDB, Cassandra e Redis.
 
 
+#### Sua atividade foi entregue com sucesso!
+Confira abaixo os detalhes do seu envio. Uma cópia deste recibo também será enviada para o seu e-mail.
+
+ID do envio: 17511933
+Atividade enviada por: Diego Jefferson da Silva Rosa
+Data e hora do envio: 02/06/26 - 18:57
+Disciplina: Modelagem e Desenvolvimento de Banco de Dados [TTEC0037] (2026-1-TTEC0037-TRIMESTRAL-EAD0303T)
+Tarefa: Escrita e Reflexão
+Tentativa: 2 de 2
 
 
 

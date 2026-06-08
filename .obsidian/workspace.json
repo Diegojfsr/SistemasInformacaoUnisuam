@@ -13,58 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extensão 2/Unidade2-Comunicação Digital E-mail.md",
+                "file": "Extensão 2/Unidade6-Avaliações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unidade2-Comunicação Digital E-mail"
-            }
-          },
-          {
-            "id": "44fc92cef82ab89c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extensão 2/Unidade3-Navegação Segura na Internet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unidade3-Navegação Segura na Internet"
-            }
-          },
-          {
-            "id": "2f4ebb32180d35ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extensão 2/Unidade4-Serviços Digitais Essenciais Gov.br.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unidade4-Serviços Digitais Essenciais Gov.br"
-            }
-          },
-          {
-            "id": "f9eb07a47eef3537",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extensão 1/Unidade8-1ª Avaliação do Módulo de Extensão.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unidade8-1ª Avaliação do Módulo de Extensão"
+              "title": "Unidade6-Avaliações"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extensão 1/Unidade8-1ª Avaliação do Módulo de Extensão.md",
+                "file": "Extensão 2/Unidade6-Avaliações.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Unidade8-1ª Avaliação do Módulo de Extensão"
+              "title": "Sumário de Unidade6-Avaliações"
             }
           },
           {
@@ -210,13 +167,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f9eb07a47eef3537",
+  "active": "42c32e78dd3348ad",
   "lastOpenFiles": [
-    "Extensão 2/Unidade5-Segurança Digital e Prevenção de Golpes.md",
-    "Extensão 2/Apresentação e Orientações1.md",
-    "Extensão 2/Unidade4-Serviços Digitais Essenciais Gov.br.md",
-    "Extensão 2/Unidade3-Navegação Segura na Internet.md",
     "Extensão 2/Unidade2-Comunicação Digital E-mail.md",
+    "Extensão 2/Unidade3-Navegação Segura na Internet.md",
+    "Extensão 2/Unidade4-Serviços Digitais Essenciais Gov.br.md",
+    "Extensão 2/Unidade5-Segurança Digital e Prevenção de Golpes.md",
+    "Fundamentos Computacionais/Unidade1.1-Sistemas de computador.md",
+    "Fundamentos Computacionais/Atividades Avaliativas1-Escrita e Reflexão.md",
+    "Extensão 2/Unidade6-Avaliações.md",
+    "Extensão 1/Unidade8-1ª Avaliação do Módulo de Extensão.md",
+    "Extensão 2/Apresentação e Orientações1.md",
     "Extensão 2/Unidade1-Primeiros Passos Digitais.md",
     "Modelagem e Desenvolvimento de Banco de Dados/Atividades Avaliativas1-Escrita e Reflexão.md",
     "Extensão 2",
@@ -225,7 +186,6 @@
     "Extensão 1/Unidade3-Avaliação de Extensão.md",
     "Extensão 1/Unidade7-Live no Youtube - Extensão Universitária O que é e como fazer.md",
     "Extensão 1/Unidade6-Exemplos de Atividades de Extensão.md",
-    "Extensão 1/Unidade8-1ª Avaliação do Módulo de Extensão.md",
     "Extensão 1/Unidade9-2ª Avaliação do Módulo de Extensão.md",
     "Extensão 1/Unidade5-Extensão para os cursos EAD.md",
     "Extensão 1/Unidade4-Extensão na UNISUAM.md",
@@ -237,9 +197,6 @@
     "Modelagem e Desenvolvimento de Banco de Dados/Unidade3.1-Gerenciamento de Transações.md",
     "Modelagem e Desenvolvimento de Banco de Dados/Unidade2.4-Gerenciando Dados.md",
     "Modelagem e Desenvolvimento de Banco de Dados/Unidade2.3-Administração de Dados e Banco de Dados.md",
-    "Modelagem e Desenvolvimento de Banco de Dados/Unidade2.2-Linguagem SQL (Consultas).md",
-    "Modelagem e Desenvolvimento de Banco de Dados/Unidade2.1-Linguagem SQL (noções básicas).md",
-    "Modelagem e Desenvolvimento de Banco de Dados/Unidade1.4-Projeto de Banco de Dados.md",
     "Modelagem e Desenvolvimento de Banco de Dados",
     "Leitura e Produção de Textos",
     "Fundamentos Computacionais",

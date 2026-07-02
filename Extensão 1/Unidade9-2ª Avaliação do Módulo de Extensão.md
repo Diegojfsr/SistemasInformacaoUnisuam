@@ -58,3 +58,17 @@ https://forms.gle/bZGmz8GsLt1iSrq96
 
 
 
+
+## Sua atividade foi entregue com sucesso!
+
+Confira abaixo os detalhes do seu envio. Uma cópia deste recibo também será enviada para o seu e-mail.
+
+- ID do envio: 18723945
+- Atividade enviada por: Diego Jefferson da Silva Rosa
+- Data e hora do envio: 02/07/26 - 18:48
+- Disciplina: Extensão 1 EXTN0001 (2026-1-EXTN0001-TRIMESTRAL-EAD0301T)
+- Tarefa: 2ª AVALIAÇÃO DO MÓDULO DE EXTENSÃO
+- Tentativa: 1 de 1
+- Arquivos:
+    - Diego Jefferson-2ª AVALIAÇÃO DO MÓDULO DE EXTENSÃO 1.pdf
+

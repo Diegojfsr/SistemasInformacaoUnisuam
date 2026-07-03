@@ -64,3 +64,17 @@ Inserir as três respostas da atividade, descrevendo no formato do trabalho
 
 
 
+## Sua atividade foi entregue com sucesso!
+
+Confira abaixo os detalhes do seu envio. Uma cópia deste recibo também será enviada para o seu e-mail.
+
+- ID do envio: 18752905
+- Atividade enviada por: Diego Jefferson da Silva Rosa
+- Data e hora do envio: 03/07/26 - 20:19
+- Disciplina: Extensão 2 EDSI0002 (2026-1-EDSI0002-TRIMESTRAL-EAD0301T)
+- Tarefa: Avaliação Final
+- Tentativa: 1 de 1
+- Arquivos:
+    - Diego Jefferson-2ª AVALIAÇÃO DO MÓDULO DE EXTENSÃO 2.pdf
+
+

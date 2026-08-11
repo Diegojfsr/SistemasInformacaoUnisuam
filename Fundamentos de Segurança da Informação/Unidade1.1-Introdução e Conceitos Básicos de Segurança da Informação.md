@@ -191,8 +191,30 @@ As características destacadas representam os três pilares da segurança da inf
 
 Você vai conhecer, Na Prática, as medidas tomadas para garantir cada um desses aspectos.
 
+"Garantir a segurança e proteção de dados contra violações é uma prioridade. Em muitos casos, necessita-se que o sistema esteja disponível 24 horas por dia, 7 dias por semana, para garantir uma experiência de compra sem interrupções para os usuários.
+Para entender melhor essa situação, acompanhe o caso a seguir."
 
-![](https://statics-marketplace.plataforma.grupoa.education/sagah/c60119f7-1782-4d3c-b95f-319ab36a3736/cad8870f-cdf4-4514-8aee-cec97e369cb7.jpg)
+"Ana é uma analista de segurança da informação dedicada e experiente na proteção de dados sensíveis.
+Ela lidera os esforços para garantir a confidencialidade, integridade e disponibilidade dos sistemas de uma empresa, implementando medidas robustas de segurança cibernética para proteger informações sigilosas contra ameaças externas e assegurar uma experiência segura para os clientes."
+
+CONFIDENCIALIDADE  
+Ana implementou medidas para garantir a confidencialidade dos dados dos clientes:
+Criptografou os dados armazenados no banco de dados, protegendo assim as informações sensíveis contra acessos não autorizados.
+Implementou o uso de assinatura digital no sistema para verificar e autenticar a identidade dos usuários, assegurando que apenas usuários legítimos tenham acesso aos dados.
+
+INTEGRIDADE
+Para garantir a integridade das informações e o controle efetivo das compras, Ana adotou estas medidas:
+Utilizou assinatura digital para garantir que as informações das compras não sejam alteradas por invasores, mantendo a integridade dos dados do cliente.
+Implementou o uso de hash para armazenar as senhas dos usuários, protegendo contra tentativas de descoberta de senha por terceiros e garantindo que apenas usuários autorizados possam realizar compras.
+Configurou o site para comunicação com protocolo HTTPS, garantindo que as informações sejam transmitidas de forma segura e protegida contra interceptação.
+
+DISPONIBILIDADE
+Ana também prezava pela garantia da disponibilidade contínua do sistema:
+Configurou os servidores de forma replicada, garantindo que, em caso de falha de um servidor, o outro assuma sua função e o sistema continue operacional.
+Implementou precauções físicas, como garantir a segurança das portas e janelas, climatizar a sala do servidor, instalar equipamentos estabilizadores de voltagem, nobreaks e geradores de energia para manter a aplicação funcionando mesmo em caso de falta de energia elétrica.
+
+"Garantir a segurança dos dados dos clientes e a disponibilidade contínua do sistema são aspectos essenciais para o sucesso e a confiança no comércio eletrônico de uma empresa. Com direcionamentos para assegurar confidencialidade, integridade e disponibilidade, a empresa tende a alcançar as metas de segurança e atingir a satisfação dos clientes."
+
 
 
 ## Saiba mais

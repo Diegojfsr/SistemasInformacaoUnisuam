@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c89e8599fa0eeb1c",
+            "id": "2dc016a75db4b672",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "2dc016a75db4b672",
+            "id": "c89e8599fa0eeb1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +35,7 @@
               "title": "Unidade1.2-Conceito e valor da informação"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentos de Segurança da Informação/Unidade1.2-Conceito e valor da informação.md",
+                "file": "Fundamentos de Segurança da Informação/Unidade1.1-Introdução e Conceitos Básicos de Segurança da Informação.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -186,8 +185,8 @@
   },
   "active": "2dc016a75db4b672",
   "lastOpenFiles": [
-    "Fundamentos de Segurança da Informação/Unidade1.1-Introdução e Conceitos Básicos de Segurança da Informação.md",
     "Fundamentos de Segurança da Informação/Unidade1.2-Conceito e valor da informação.md",
+    "Fundamentos de Segurança da Informação/Unidade1.1-Introdução e Conceitos Básicos de Segurança da Informação.md",
     "Fundamentos Computacionais/Unidade1.1-Sistemas de computador.md",
     "Fundamentos de Segurança da Informação",
     "Extensão 1/Unidade1-Apresentação da Disciplina de Extensão.md",

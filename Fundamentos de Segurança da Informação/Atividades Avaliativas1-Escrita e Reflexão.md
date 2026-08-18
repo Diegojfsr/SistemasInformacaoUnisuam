@@ -51,8 +51,9 @@ Claudia
 
 
 Prazo de envio 25/09/2026 - 23:59
-Tentativas 0/2
-Vale 3 pontos
+Tentativas: 0/2
+Tentativa válida: Maior nota
+Vale: 3 pontos
 
 A escrita e reflexão é uma atividade pontuada e que compõe a sua nota final.
 Acesse o anexo para visualizar a proposta de sua avaliação. Leia com atenção as orientações do seu Professor-Tutor e em caso de dúvidas, não hesite em procurá-lo.

@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ddedcb2c768f5be",
+            "id": "9b579bf84632e69b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos de Segurança da Informação/Unidade1.1-Introdução e Conceitos Básicos de Segurança da Informação.md",
+                "file": "Fundamentos de Segurança da Informação/Atividades Avaliativas1-Escrita e Reflexão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unidade1.1-Introdução e Conceitos Básicos de Segurança da Informação"
+              "title": "Atividades Avaliativas1-Escrita e Reflexão"
             }
           },
           {
@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Unidade1.1-Fundamentos de sistemas operacionais"
             }
+          },
+          {
+            "id": "f5097809947f3bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operacionais/Unidade1.1-Fundamentos de sistemas operacionais.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unidade1.1-Fundamentos de sistemas operacionais"
+            }
+          },
+          {
+            "id": "83025312626b53d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operacionais/Atividades Avaliativas1-Escrita e Reflexão.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Atividades Avaliativas1-Escrita e Reflexão"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operacionais/Unidade1.1-Fundamentos de sistemas operacionais.md",
+                "file": "Sistemas Operacionais/Atividades Avaliativas1-Escrita e Reflexão.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,11 +212,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3e648d1c877882b8",
+  "active": "83025312626b53d4",
   "lastOpenFiles": [
-    "Fundamentos de Segurança da Informação/Unidade1.1-Introdução e Conceitos Básicos de Segurança da Informação.md",
-    "Sistemas Operacionais/Unidade1.1-Fundamentos de sistemas operacionais.md",
     "Fundamentos de Segurança da Informação/Atividades Avaliativas1-Escrita e Reflexão.md",
+    "Sistemas Operacionais/Atividades Avaliativas1-Escrita e Reflexão.md",
+    "Sistemas Operacionais/Unidade1.1-Fundamentos de sistemas operacionais.md",
+    "Fundamentos de Segurança da Informação/Unidade1.1-Introdução e Conceitos Básicos de Segurança da Informação.md",
     "Sistemas Operacionais",
     "Leitura e Produção de Textos/Atividades Avaliativas1-Escrita e Reflexão.md",
     "Fundamentos de Segurança da Informação/Unidade1.2-Conceito e valor da informação.md",
@@ -213,7 +242,6 @@
     "Modelagem e Desenvolvimento de Banco de Dados/Atividades Avaliativas2-Escrita e Reflexão.md",
     "Modelagem e Desenvolvimento de Banco de Dados/Unidade3.4-Necessidades das políticas de manutenção de banco de dados.md",
     "Extensão 2/Unidade2-Comunicação Digital E-mail.md",
-    "Extensão 2/Unidade3-Navegação Segura na Internet.md",
     "Extensão 2",
     "Extensão 1",
     "Modelagem e Desenvolvimento de Banco de Dados",

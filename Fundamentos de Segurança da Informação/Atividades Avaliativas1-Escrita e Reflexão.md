@@ -12,10 +12,7 @@ Prover recursos que garantam o valor agregado à informação é fundamental den
 procedimentos referentes à disponibilização dos softwares que dão apoio às operações das
 organizações. Nesta disciplina o foco é conhecer mecanismos necessários que garantem a
 segurança da informação visando disponibilidade, integridade e confidencialidade.
-O objetivo desta atividade é você realizar uma reflexão a respeito da importância da informação
-nas organizações, identificando recursos a serem implementados que possam trazer a
-disponibilidade, integridade e confidencialidade dos dados, obtendo total confiabilidade e
-garantia às empresas na utilização dos mesmos.
+O objetivo desta atividade é você realizar uma reflexão a respeito da importância da informação nas organizações, identificando recursos a serem implementados que possam trazer a disponibilidade, integridade e confidencialidade dos dados, obtendo total confiabilidade e garantia às empresas na utilização dos mesmos.
 
 ## Proposta de Trabalho
 Refletir sobre a importância da informação nas organizações e recursos necessários para

@@ -153,8 +153,32 @@ STALLINGS, William. Criptografia e segurança de redes: princípios e práticas.
 #### Minha Resposta
 
 
-A informação é considerada um dos ativos mais valiosos das organizações, pois subsidia a tomada de decisões e contribui para a obtenção de vantagens competitivas. No vídeo CobiT®5 e a importância da informação para a sua empresa hoje!, destaca-se que a informação é a “moeda do século XXI”, reforçando seu papel estratégico para o sucesso empresarial. O vídeo também evidencia que a utilização da informação correta, no momento adequado, possibilita decisões mais assertivas e melhores resultados para as empresas. Para garantir a proteção desse ativo, a Segurança da Informação baseia-se nos pilares da Confidencialidade, Integridade e Disponibilidade, apresentados no vídeo Princípios da Segurança da Informação e aprofundados por Horácio Ribeiro no vídeo Aula 2/15 - Segurança da Informação: Conceitos Fundamentais. A confidencialidade assegura que apenas pessoas autorizadas tenham acesso aos dados; a integridade protege as informações contra alterações indevidas; e a disponibilidade garante que elas possam ser acessadas quando necessário. Além desses pilares, destacam-se a autenticidade e o não repúdio, princípios que fortalecem a confiabilidade das informações e das operações realizadas nos sistemas. Como recurso aplicado à segurança dos sistemas de informação, a autenticação multifator (MFA) merece destaque por reforçar a proteção contra acessos não autorizados e contribuir para a preservação da confidencialidade, integridade e disponibilidade dos dados organizacionais.
+A informação é considerada um dos ativos mais valiosos das organizações, pois subsidia a tomada de decisões e contribui para a obtenção de vantagens competitivas. 
+No vídeo CobiT®5 e a importância da informação para a sua empresa hoje, do Prof. Adriano Martins Antonio, destaca-se que a informação é a “moeda do século XXI”, reforçando seu papel estratégico para o sucesso empresarial. 
+O vídeo também evidencia que a utilização da informação correta, no momento adequado, possibilita decisões mais assertivas e melhores resultados para as empresas. 
+Para garantir a proteção desse ativo, a Segurança da Informação baseia-se nos pilares da Confidencialidade, Integridade e Disponibilidade, apresentados no vídeo Princípios da Segurança da Informação do canal do YouTube, Dicionário de Informática e aprofundados pelo Prof. Horácio Ribeiro no vídeo da Aula 2/15 - Segurança da Informação: Conceitos Fundamentais. 
+A confidencialidade assegura que apenas pessoas autorizadas tenham acesso aos dados; a integridade protege as informações contra alterações indevidas; e a disponibilidade garante que elas possam ser acessadas quando necessário. 
+Além desses pilares, destacam-se a autenticidade e o não repúdio, princípios que fortalecem a confiabilidade das informações e das operações realizadas nos sistemas. 
+Como recurso aplicado à segurança dos sistemas de informação, a autenticação multifator (MFA) merece destaque por reforçar a proteção contra acessos não autorizados e contribuir para a preservação da confidencialidade, integridade e disponibilidade dos dados organizacionais.
 
 
+Referências:
+- ANTONIO, Adriano Martins. CobiT®5 e a importância da informação para a sua empresa hoje!. YouTube. Disponível em: [https://www.youtube.com/watch?v=8CaNBnqBUJ8](https://www.youtube.com/watch?v=8CaNBnqBUJ8). Acesso em: 19 ago. 2026.
+
+- RIBEIRO, Horácio. Aula 2/15 - Segurança da Informação: Conceitos Fundamentais. YouTube. Disponível em: [https://www.youtube.com/watch?v=eHD7RzgKXiY](https://www.youtube.com/watch?v=eHD7RzgKXiY). Acesso em: 19 ago. 2026.
+
+- DICIONÁRIO DE INFORMÁTICA. Princípios da Segurança da Informação. YouTube. Disponível em: [https://www.youtube.com/watch?v=AomMzDdq3YA](https://www.youtube.com/watch?v=AomMzDdq3YA). Acesso em: 19 ago. 2026.
+
+
+#### Sua atividade foi entregue com sucesso!
+
+Confira abaixo os detalhes do seu envio. Uma cópia deste recibo também será enviada para o seu e-mail.
+
+- ID do envio: 19343928
+- Atividade enviada por: Diego Jefferson da Silva Rosa
+- Data e hora do envio: 20/08/26 - 19:54
+- Disciplina: Fundamentos de Segurança da Informação [TTEC0023] (2026-2-TTEC0023-TRIMESTRAL-EAD0301T)
+- Tarefa: Escrita e Reflexão
+- Tentativa: 1 de 2
 
 

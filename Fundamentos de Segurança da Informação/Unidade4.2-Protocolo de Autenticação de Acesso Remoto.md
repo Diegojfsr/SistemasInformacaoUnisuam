@@ -194,5 +194,3 @@ estratégica da segurança empresarial. Lisboa: Centro Atlântico, 2003.
 Bancos gratuitos de imagens e Shutterstock.
 SAGAH, 2024.
 
-
-

@@ -35,10 +35,22 @@ Para o problema 2: criar políticas de acesso aos compartilhamentos com base em 
 
 ####  ✅ Resposta ao desafio:
 
+Uma solução adequada para a empresa FAZBEM seria substituir o compartilhamento de arquivos realizado por um computador comum por um servidor de arquivos dedicado.
+Atualmente, existem dois problemas principais:
 
+Uso de um computador comum como servidor de arquivos
+ O equipamento utilizado não foi projetado para fornecer serviços de rede a muitos usuários simultaneamente. Além disso, como também é utilizado pela colaboradora do setor de Gestão de Pessoas, seu desempenho pode ser comprometido, causando lentidão no acesso aos arquivos. Outro ponto crítico é que esse computador não pode ser desligado sem interromper o acesso dos demais funcionários.
 
+Falta de controle adequado de acesso aos arquivos
+ Nesse modelo de compartilhamento, há maior dificuldade para implementar políticas de segurança e restrições de acesso, permitindo que usuários visualizem arquivos que não são relacionados às suas atividades.
 
+Solução proposta:
+Adquirir um servidor de rede dedicado, utilizando o sistema operacional Windows Server, para atuar como servidor de arquivos.
+Centralizar todos os compartilhamentos nesse servidor, garantindo melhor desempenho, disponibilidade, segurança e gerenciamento.
+Criar grupos de usuários por departamento (Gestão de Pessoas, Financeiro, Comercial, etc.) e definir permissões de acesso específicas para cada grupo.
+Permitir que cada setor tenha acesso apenas aos arquivos necessários para suas atividades, aumentando a segurança das informações da empresa.
 
+Dessa forma, a empresa reduzirá os problemas de lentidão, aumentará a disponibilidade dos arquivos e implementará um controle de acesso mais seguro e organizado.
 
 
 ## Infográfico
@@ -123,6 +135,52 @@ E.É o programa que acessa o diretório raíz do Linux.
 Vinícius é o Analista de Suporte de Tecnologia da Informação da empresa NEWTECH, que possui um servidor de arquivos com um disco de 500 gigabytes para armazenamento dos arquivos a serem compartilhados.
 
 Ele detectou que é importante ter um backup (cópia de segurança dos arquivos) em outro disco. A solução utilizada para o servidor de arquivos é baseada no sistema operacional Linux, com uma versão sem interface gráfica.
+
+#### Veja quais os procedimentos foram adotados por Vinicius para a instalação do novo disco.
+
+Primeiramente o disco deve ser instalado fisicamente no computador. Uma vez que o disco foi instalado fisicamente na máquina, devemos identificá-lo para prepará-lo e então poder utilizá-lo. Com o comando "df", vamos verificar qual é o disco instalado atualmente no computador:
+
+``` bash
+[root@localhost ~]# df
+Filesystem     1K-blocks      Used Available Use% Mounted on
+/dev/sda2       19306788   2809356  15516696  16% /
+tmpfs             515428        88    515340   1% /dev/shm
+/dev/sda1         297485     31238    250887  12% /boot
+```
+
+Com a saída do comando, verificamos que o disco atualmente utilizado é o /dev/sda, pois é o disco que tem o diretório /boot.
+Para identificar o disco novo, podemos executar o comando "dmesg" e procurar por "disk":
+Agora temos um disco "sdb", ou seja, este é o disco recém adicionado.
+
+``` bash
+[root@localhost ~]# dmesg | grep disk
+sd 1:0:0:0: [sdb] Attached SCSI disk
+sd 0:0:0:0: [sda] Attached SCSI disk
+```
+
+Com o disco identificado, agora vamos prepará-lo para utilizar no Linux. Esse processo consiste em formatar disco novo, isso pode ser feito através do comando "mkfs.ext4".
+
+``` bash
+[root@localhost ~]# mkfs.ext4 /dev/sdb1
+
+mke2fs 1.41.12 (17-May-2010)
+Filesystem label=
+OS type: Linux
+Block size=4096 (log=2)
+Fragment size=4096 (log=2)
+Stride=0 blocks, Stripe width=0 blocks
+655360 inodes, 2620416 blocks
+131020 blocks (5.00%) reserved for the super user
+First data block=0
+Maximum filesystem blocks=2684354560
+80 block groups
+32768 blocks per group, 32768 fragments per group
+8192 inodes per group
+Superblock backups stored on blocks:
+    32768, 98304, 163840, 229376, 294912, 819200, 884736, 1605632
+```
+
+
 
 
 ## Saiba mais

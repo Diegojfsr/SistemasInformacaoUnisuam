@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f6baaa35d2bad56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas Operacionais/Unidade1.4-Arquitetura de sistemas operacionais.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unidade1.4-Arquitetura de sistemas operacionais"
-            }
-          },
-          {
-            "id": "41068a7beb57251b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas Operacionais/Unidade2.1-Conceituação e gerenciamento de processos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unidade2.1-Conceituação e gerenciamento de processos"
-            }
-          },
-          {
-            "id": "318ec9c380b2f9fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas Operacionais/Unidade2.2- Comunicação entre processos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unidade2.2- Comunicação entre processos"
-            }
-          },
-          {
             "id": "ef89bfacb90cfecd",
             "type": "leaf",
             "state": {
@@ -76,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Unidade2.4-Concorrência e sincronização de processos"
             }
+          },
+          {
+            "id": "6d9b33038fe6742c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas Operacionais/Unidade3.1-Gerência de memória.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unidade3.1-Gerência de memória"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operacionais/Unidade2.4-Concorrência e sincronização de processos.md",
+                "file": "Sistemas Operacionais/Unidade3.1-Gerência de memória.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -226,10 +198,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "542da53993ec6c8a",
+  "active": "6d9b33038fe6742c",
   "lastOpenFiles": [
-    "Sistemas Operacionais/Unidade2.3-Escalonamento de processos.md",
     "Sistemas Operacionais/Unidade2.4-Concorrência e sincronização de processos.md",
+    "Sistemas Operacionais/Unidade3.1-Gerência de memória.md",
+    "Sistemas Operacionais/Unidade2.3-Escalonamento de processos.md",
     "Sistemas Operacionais/Unidade2.2- Comunicação entre processos.md",
     "Sistemas Operacionais/Unidade2.1-Conceituação e gerenciamento de processos.md",
     "Sistemas Operacionais/Unidade1.4-Arquitetura de sistemas operacionais.md",
@@ -255,7 +228,6 @@
     "Sistemas Operacionais/Atividades Avaliativas1-Escrita e Reflexão.md",
     "Sistemas Operacionais",
     "Leitura e Produção de Textos/Atividades Avaliativas1-Escrita e Reflexão.md",
-    "Fundamentos de Segurança da Informação/Unidade1.2-Conceito e valor da informação.md",
     "Fundamentos de Segurança da Informação",
     "Extensão 2",
     "Extensão 1",

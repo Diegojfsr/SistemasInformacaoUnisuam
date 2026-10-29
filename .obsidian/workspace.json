@@ -8,63 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd1508a25fd4126c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paradigmas de Programação/Unidade1.1-Fundamentos da tecnologia da informação.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unidade1.1-Fundamentos da tecnologia da informação"
-            }
-          },
-          {
-            "id": "44cc092c9ab812ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas Operacionais/Unidade4.2-Implementação do sistema de arquivos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unidade4.2-Implementação do sistema de arquivos"
-            }
-          },
-          {
-            "id": "abb39f0a00428eb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas Operacionais/Unidade4.3-Gerenciamento de entrada e saída.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unidade4.3-Gerenciamento de entrada e saída"
-            }
-          },
-          {
             "id": "7561207090a57c01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operacionais/Unidade4.4-Componentes de hardware e software do PC.md",
+                "file": "Paradigmas de Programação/Unidade1.2-Competindo com a Tecnologia da Informação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unidade4.4-Componentes de hardware e software do PC"
+              "title": "Unidade1.2-Competindo com a Tecnologia da Informação"
+            }
+          },
+          {
+            "id": "de0eb9225898b011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paradigmas de Programação/Unidade1.3-Arquitetura corporativa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unidade1.3-Arquitetura corporativa"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operacionais/Unidade4.4-Componentes de hardware e software do PC.md",
+                "file": "Paradigmas de Programação/Unidade1.3-Arquitetura corporativa.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -212,12 +184,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7561207090a57c01",
+  "active": "de0eb9225898b011",
   "lastOpenFiles": [
-    "Sistemas Operacionais/Unidade4.3-Gerenciamento de entrada e saída.md",
-    "Sistemas Operacionais/Unidade4.4-Componentes de hardware e software do PC.md",
-    "Sistemas Operacionais/Unidade4.2-Implementação do sistema de arquivos.md",
     "Paradigmas de Programação/Unidade1.2-Competindo com a Tecnologia da Informação.md",
+    "Paradigmas de Programação/Unidade1.3-Arquitetura corporativa.md",
+    "Sistemas Operacionais/Unidade4.4-Componentes de hardware e software do PC.md",
+    "Sistemas Operacionais/Unidade4.3-Gerenciamento de entrada e saída.md",
+    "Sistemas Operacionais/Unidade4.2-Implementação do sistema de arquivos.md",
     "Paradigmas de Programação/Unidade1.1-Fundamentos da tecnologia da informação.md",
     "Sistemas Operacionais/Unidade4.1-Sistema de arquivos.md",
     "Sistemas Operacionais/Unidade3.4-Memória virtual algoritmos de substituição de páginas.md",
@@ -241,7 +214,6 @@
     "Fundamentos de Segurança da Informação/Unidade4.1-Recursos de Autenticação.md",
     "Fundamentos de Segurança da Informação/Unidade3.4-Assinatura Digital.md",
     "Fundamentos de Segurança da Informação/Pasted image 20261013203631.png",
-    "Fundamentos de Segurança da Informação/Unidade3.3-Infraestrutura de Chaves Públicas.md",
     "Sistemas Operacionais",
     "Fundamentos de Segurança da Informação",
     "Extensão 2",

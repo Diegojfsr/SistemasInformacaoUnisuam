@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7561207090a57c01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paradigmas de Programação/Unidade1.2-Competindo com a Tecnologia da Informação.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unidade1.2-Competindo com a Tecnologia da Informação"
-            }
-          },
-          {
-            "id": "de0eb9225898b011",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paradigmas de Programação/Unidade1.3-Arquitetura corporativa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unidade1.3-Arquitetura corporativa"
-            }
-          },
-          {
             "id": "7d0c85681fd2211a",
             "type": "leaf",
             "state": {
@@ -48,9 +20,23 @@
               "icon": "lucide-file",
               "title": "Unidade1.4-Tecnologia da inteligência artificial empresarial"
             }
+          },
+          {
+            "id": "1d382f0413aad5a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paradigmas de Programação/Unidade2.1-A EMPRESA COMO SISTEMA E SEU AMBIENTE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unidade2.1-A EMPRESA COMO SISTEMA E SEU AMBIENTE"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paradigmas de Programação/Unidade1.4-Tecnologia da inteligência artificial empresarial.md",
+                "file": "Paradigmas de Programação/Unidade2.1-A EMPRESA COMO SISTEMA E SEU AMBIENTE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,10 +184,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7d0c85681fd2211a",
+  "active": "1d382f0413aad5a0",
   "lastOpenFiles": [
-    "Paradigmas de Programação/Unidade1.3-Arquitetura corporativa.md",
     "Paradigmas de Programação/Unidade1.4-Tecnologia da inteligência artificial empresarial.md",
+    "Paradigmas de Programação/Unidade2.1-A EMPRESA COMO SISTEMA E SEU AMBIENTE.md",
+    "Paradigmas de Programação/Unidade1.3-Arquitetura corporativa.md",
     "Paradigmas de Programação/Unidade1.2-Competindo com a Tecnologia da Informação.md",
     "Sistemas Operacionais/Unidade4.4-Componentes de hardware e software do PC.md",
     "Sistemas Operacionais/Unidade4.3-Gerenciamento de entrada e saída.md",
@@ -226,7 +213,6 @@
     "Fundamentos de Segurança da Informação/Unidade4.4-Identificação e Solução de Problemas Reais.md",
     "Fundamentos de Segurança da Informação/Unidade4.3-Técnicas e tecnologias disponíveis para defesa da informação.md",
     "Fundamentos de Segurança da Informação/Unidade4.2-Protocolo de Autenticação de Acesso Remoto.md",
-    "Fundamentos de Segurança da Informação/Unidade4.1-Recursos de Autenticação.md",
     "Fundamentos de Segurança da Informação/Pasted image 20261013203631.png",
     "Sistemas Operacionais",
     "Fundamentos de Segurança da Informação",

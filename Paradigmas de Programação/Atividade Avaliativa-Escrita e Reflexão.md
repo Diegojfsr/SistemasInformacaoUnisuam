@@ -77,10 +77,12 @@ Diferente dos modelos de layout tradicionais baseados em blocos (block) e linhas
 Para compreender o funcionamento do Flexbox, é fundamental dominar a relação entre o elemento pai e seus elementos filhos, além de seus eixos direcionais:
 
 Contêiner Flex (Flex Container): É o elemento pai que recebeu a propriedade display: flex; ou display: inline-flex;. Ele passa a gerenciar diretamente o comportamento de layout de todos os seus filhos diretos.
+
 Itens Flex (Flex Items): São os elementos filhos diretos posicionados dentro do contêiner flex.
 
 Eixo Principal (Main Axis) e Eixo Transversal (Cross Axis):
 O Main Axis é o eixo primário ao longo do qual os itens flexíveis são colocados. Sua direção é definida pela propriedade flex-direction.
+
 O Cross Axis é o eixo perpendicular ao eixo principal. Se o eixo principal for horizontal (linha), o eixo transversal será vertical (coluna), e vice-versa.
 
 #### 4.Principais Elementos e Propriedades
@@ -109,4 +111,21 @@ MDN WEB DOCS. CSS Flexible Box Layout. Disponível em: https://developer.mozilla
 MOZILLA CONTRIBUTORS. Basic concepts of flexbox. MDN Web Docs, 2024. Disponível em: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox. Acesso em: 10 nov. 2026.
 
 W3C. CSS Flexible Box Layout Module Level 1. W3C Recommendation, 2018. Disponível em: https://www.w3.org/TR/css-flexbox-1/. Acesso em: 10 nov. 2026.
+
+
+
+
+
+#### Sua atividade foi entregue com sucesso!
+Confira abaixo os detalhes do seu envio. Uma cópia deste recibo também será enviada para o seu e-mail.
+
+ID do envio: 22475649
+Atividade enviada por: Diego Jefferson da Silva Rosa
+Data e hora do envio: 16/11/26 - 20:27
+Disciplina: Paradigmas de Programação [TTEC0038] (2026-2-TTEC0038-TRIMESTRAL-EAD0301T)
+Tarefa: Escrita e Reflexão
+Tentativa: 1 de 2
+Arquivos:
+DiegoJfsr-Paradigmas de Programação-Escrita e Reflexão.pdf
+
 

@@ -8,91 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ebd417f2b5197430",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paradigmas de Programação/Unidade2.3-A importância da governança corporativa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unidade2.3-A importância da governança corporativa"
-            }
-          },
-          {
-            "id": "028cd77b8f25dd6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paradigmas de Programação/Unidade2.4-OS PILARES DE SUSTENTAÇÃO DA GOVERNANÇA CORPORATIVA..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unidade2.4-OS PILARES DE SUSTENTAÇÃO DA GOVERNANÇA CORPORATIVA."
-            }
-          },
-          {
-            "id": "cb6f87e6a59b95bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extensão 3/Undade1.1-Apresentação e Orientações.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Undade1.1-Apresentação e Orientações"
-            }
-          },
-          {
-            "id": "9381b0b3e7b92115",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extensão 3/Unidade1.2-Cronograma de Atividades.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unidade1.2-Cronograma de Atividades"
-            }
-          },
-          {
-            "id": "8e53e571a92d2a29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extensão 3/Unidade1.3-Orientações sobre as avaliações.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unidade1.3-Orientações sobre as avaliações"
-            }
-          },
-          {
             "id": "8129b76fe308132e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extensão 3/Unidade1.4-Encontro online Apresentação da Disciplina.md",
+                "file": "Fundamentos Computacionais/Unidade1.1-Sistemas de computador.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unidade1.4-Encontro online Apresentação da Disciplina"
+              "title": "Unidade1.1-Sistemas de computador"
+            }
+          },
+          {
+            "id": "87953f5166138446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extensão 3/Unidade2.1-Avaliação Parcial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unidade2.1-Avaliação Parcial"
+            }
+          },
+          {
+            "id": "e25b945dcde90b6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extensão 3/Unidade2.2-Avaliação Final.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unidade2.2-Avaliação Final"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extensão 3/Unidade1.4-Encontro online Apresentação da Disciplina.md",
+                "file": "Extensão 3/Unidade2.2-Avaliação Final.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -240,10 +198,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8129b76fe308132e",
+  "active": "e25b945dcde90b6a",
   "lastOpenFiles": [
-    "Extensão 3/Unidade1.3-Orientações sobre as avaliações.md",
+    "Extensão 3/Unidade2.1-Avaliação Parcial.md",
+    "Extensão 3/Unidade2.2-Avaliação Final.md",
+    "Fundamentos Computacionais/Unidade1.1-Sistemas de computador.md",
+    "Fundamentos Computacionais/Atividades Avaliativas1-Escrita e Reflexão.md",
     "Extensão 3/Unidade1.4-Encontro online Apresentação da Disciplina.md",
+    "Extensão 3/Unidade1.3-Orientações sobre as avaliações.md",
     "Extensão 3/Unidade1.2-Cronograma de Atividades.md",
     "Extensão 3/Undade1.1-Apresentação e Orientações.md",
     "Paradigmas de Programação/Atividade Avaliativa-Escrita e Reflexão.md",
@@ -267,10 +229,6 @@
     "Sistemas Operacionais/Unidade3.2-Paginação em memória virtual.md",
     "Sistemas Operacionais/Unidade3.1-Gerência de memória.md",
     "Sistemas Operacionais/Unidade2.4-Concorrência e sincronização de processos.md",
-    "Sistemas Operacionais/Unidade2.3-Escalonamento de processos.md",
-    "Sistemas Operacionais/Unidade2.2- Comunicação entre processos.md",
-    "Sistemas Operacionais/Unidade2.1-Conceituação e gerenciamento de processos.md",
-    "Sistemas Operacionais/Unidade1.4-Arquitetura de sistemas operacionais.md",
     "Fundamentos de Segurança da Informação/Pasted image 20261013203631.png",
     "Sistemas Operacionais",
     "Fundamentos de Segurança da Informação",

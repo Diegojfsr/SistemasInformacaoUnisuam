@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extensão 3/Unidade3.2-Avaliação Final.md",
+                "file": "Extensão 3/Unidade3.1-Avaliação Parcial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unidade3.2-Avaliação Final"
+              "title": "Unidade3.1-Avaliação Parcial"
             }
           }
         ],
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extensão 3/Unidade3.2-Avaliação Final.md",
+                "file": "Extensão 3/Unidade3.1-Avaliação Parcial.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,9 +200,9 @@
   },
   "active": "e25b945dcde90b6a",
   "lastOpenFiles": [
+    "Extensão 3/Unidade3.2-Avaliação Final.md",
     "Extensão 4",
     "Extensão 3/Unidade3.1-Avaliação Parcial.md",
-    "Extensão 3/Unidade3.2-Avaliação Final.md",
     "Fundamentos Computacionais/Unidade1.1-Sistemas de computador.md",
     "Fundamentos Computacionais/Atividades Avaliativas1-Escrita e Reflexão.md",
     "Extensão 3/Unidade1.4-Encontro online Apresentação da Disciplina.md",
@@ -236,7 +236,6 @@
     "Extensão 1",
     "Modelagem e Desenvolvimento de Banco de Dados",
     "Leitura e Produção de Textos",
-    "Fundamentos Computacionais",
     "Fundamentos Computacionais/Pasted image 20260331195640.png",
     "Fundamentos Computacionais/Pasted image 20260331195318.png"
   ]
